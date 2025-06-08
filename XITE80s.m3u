@@ -1,10 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1, Playlist de Música 1
 http://playlist.autoiptv.net/music.php
-
 #EXTINF:-1, Playlist de Música 2
 http://xml.autoiptv.net/music.php
-
 #EXTINF:-1, Playlist de Música 3
 http://37.133.25.67:9981/playlist
