@@ -1,7 +1,19 @@
 #EXTM3U
-#EXTINF:-1, Playlist de Música 1
-http://playlist.autoiptv.net/music.php
-#EXTINF:-1, Playlist de Música 2
-http://xml.autoiptv.net/music.php
-#EXTINF:-1, Playlist de Música 3
-http://37.133.25.67:9981/playlist
+
+#EXTINF:-1, Local Now Music
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
+
+#EXTINF:-1, Loop 80s
+https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/f4ac9870-1d19-4af3-b073-f86837769a21/4.m3u8
+
+#EXTINF:-1, Loop 90s
+https://6eb959e10c2a4477a5b14100220c3c5f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s/playlist.m3u8
+
+#EXTINF:-1, Loop Country
+https://053155d1274848ed85106dbf20adc283.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry/playlist.m3u8
+
+#EXTINF:-1, Loop Electronica
+https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
+
+#EXTINF:-1, Loop Hip Hop
+https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/master.m3u8
