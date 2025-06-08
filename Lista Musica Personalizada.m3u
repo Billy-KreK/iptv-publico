@@ -105,7 +105,7 @@ https://jmp2.uk/PlutoTV/62e8cc10ca869f00078efca8-alt.m3u8
 https://jmp2.uk/PlutoTV/636a4173e34fd50007534542-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",VH1 Rock Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="BR| VH1 HD" tvg-logo="https://lo1.in/BR/vh1.png" group-title="AM | BRAZIL HD",VH1 Brasil HD
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="BR| VH1 HD" tvg-logo="https://lo1.in/BR/vh1.png" group-title="Music",VH1 Brasil HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162557.m3u8
 #EXTINF:-1 tvg-id="VintageMusic.cr" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" group-title="Music",Vintage Music (720p)
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
