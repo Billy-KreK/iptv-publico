@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1.GLOBO NEWS 
+http://tv.ec.cx:1935/redecanais-stream-globo/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Virgin.svg/150px-Virgin.svg.png" group-title="MUSICA" , VIRGIN TV
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Virgin.svg/150px-Virgin.svg.png" group-title="MUSICA" , VIRGIN TV
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multishow SD" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="VARIEDADE",Multishow
+http://95.141.32.213:8081/look/eimax/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/55679u6x9/hotmusic.jpg" group-title="MUSICAS",MIX TV
+http://stmv1.euroti.com.br:1935/mixtv/mixtv/live.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/55679u6x9/hotmusic.jpg" group-title="MUSICAS",HOT MUSIC 
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Virgin.svg/150px-Virgin.svg.png" group-title="MUSICAS", VIRGIN TV
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8?AndreOid
+#EXTINF:0 type="favorites" tvg-logo="https://lut.im/8GWlkoeV6n/8Z03YH2qrOdt78d4.png" , TV CLIPES
+http://stmv1.euroti.com.br:1935/stmdemo/stmdemo/live.m3u8
