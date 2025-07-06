@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,MTV 80's
+http://54170383.amazzin.pw/iptv/2K98FD8RFXR7RX/31558/index.m3u8
+#EXTINF:-1,MTV 80's
+http://181.78.105.146:8800/play/a048
+#EXTINF:-1,MTV 80's
+http://181.78.105.146:6060/play/a01x/index.m3u8
+#EXTINF:-1,MTV 80's
+http://45.186.106.207:8000/play/a091/index.m3u8
+#EXTINF:-1,MTV 80's
+http://34572b64.cbilant.com/iptv/WM7RRQVNPC642F/31558/index.m3u8
+#EXTINF:-1,MTV 80's
+http://57245287.amazzin.pw/iptv/QTWMYYR4N2LH9G/31558/index.m3u8
+#EXTINF:-1,Fresh Retro TV
+http://f3c72ac7.cbilant.com/iptv/V8YHYAUGUHWRNXBHVMQC6CPS/18092/index.m3u8
+#EXTINF:-1,KLI Retro TV
+http://f3c72ac7.cbilant.com/iptv/V8YHYAUGUHWRNXBHVMQC6CPS/18177/index.m3u8
+#EXTINF:-1,Tele7music
+https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1,Retro Music Televison
+http://f3c72ac7.cbilant.com/iptv/V8YHYAUGUHWRNXBHVMQC6CPS/14169/index.m3u8
+#EXTINF:-1,Now 70s
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1,Now 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1,Now Rock
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1,V Classic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
