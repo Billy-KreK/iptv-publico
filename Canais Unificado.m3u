@@ -6616,7 +6616,7 @@ https://isaocorp.cloudecast.com/kisstv/index.m3u8
 http://jybicfmekahrqtdvzpkmn.xvdlrpeamztgqnsuhowjybicfmekahrqtdvzpkmn.icu:80/374378451/545643520/141575
 #EXTINF:-1 group-title="🎶 Music 01",MTV
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/mtv/index.m3u8
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="🎶 Music 01",MMTV
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="🎶 Music 01",MTV
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/13539
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",MTV | PLUTO TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc84b6d4-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66f1c813-a6b5-4763-bf2c-4a8cc5a4f859
@@ -6638,13 +6638,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6329cf28ef924b00078a9d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057887-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=26866fb9-ab48-465b-85a8-8314ba7340fa
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",MTV CLASSICS PLUS
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f92-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=457511ca-61ab-4eec-b63a-a8f7fbd11f13
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="🎶 Music 01",MMTV FHD
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="🎶 Music 01",MTV FHD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8970
 #EXTINF:-1 tvg-id="br#mtv" tvg-name="MTV FHD (MF)" tvg-logo="http://images.gbound.lat/logos/b0rSYyrV_o.png" group-title="🎶 Music 01",MTV FHD (MF)
 http://labxs.xyz:80/480215434/997695213/2475428.ts
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="🎶 Music 01",MTV FHD (ML)
 http://7semfronteiras.cc:8080/julia3387/jpc374856/18848
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="🎶 Music 01",MMTV HD
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="🎶 Music 01",MTV HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8971
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="🎶 Music 01",MTV HD  (ML)
 http://7semfronteiras.cc:8080/julia3387/jpc374856/22586
@@ -6656,13 +6656,13 @@ http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 http://dnsbpktzx.space:80/684961409738PW/424243160291PR/197
 #EXTINF:-1 tvg-id="Mtvlive.br" tvg-logo="" group-title="🎶 Music 01",MTV LIVE 
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV LIVE HD" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="🎶 Music 01",MMTV LIVE HD
+#EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV LIVE HD" tvg-logo="http://4.bp.blogspot.com/-4OqHYBVILTY/XmQB_z6eDgI/AAAAAAAACQg/tAJcgLZMA-Ug-KRlmabY97czaYBKypDPwCK4BGAYYCw/s400/MTV.png" group-title="🎶 Music 01",MTV LIVE HD
 http://vivofibratech.org:80/Q3sdXWJw8Kxxx22222/pKefJHyVKExxxxxxxxa12/8972
 #EXTINF:-1 tvg-id="6331a5f83eb57800074d4a0d" tvg-logo="https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/colorLogoPNG.png" group-title="🎶 Music 01",MTV MOVIE HITS | PLUTO TV SUÉCIA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6331a5f83eb57800074d4a0d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",MMTV MUSIC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",MTV MUSIC
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc8-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f02a8ef1-7c07-44f9-9197-c9b197dbc277
-#EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="🎶 Music 01",MMTV PARTY MUSIC
+#EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="🎶 Music 01",MTV PARTY MUSIC
 https://stitcher.pluto.tv/stitch/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09199ec6-d1d4-11ef-a04e-52b31f7da4f7
 #EXTINF:-1 tvg-logo="https://imgur.com/p3BDDSY.png" group-title="🎶 Music 01",MTV ROCKS
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01e07d2d50d0008100d6a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
