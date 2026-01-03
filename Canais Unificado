@@ -1,0 +1,1099 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7080TV.it" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="🎶 Music 01",70-80 TV
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-logo="https://alternatv.ar/alternatv.png" group-title="🎶 Music 01",ALTERNA TV
+https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="🎶 Music 01",BRIDGE CLASSIC
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-id="California🎶 Music 01Channel.us" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="🎶 Music 01",CALIFORNIA MUSIC CHANNEL
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",CHILI ROCK TV (IT)
+https://chili-rock-tv-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EskaRockDobrzeRockuje.pl" tvg-logo="https://i.imgur.com/3hrxvdG.png" group-title="🎶 Music 01",ESKA ROCK DOBRZE ROCKUJE (1080I)
+https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8uXwaqs.png" group-title="🎶 Music 01",KISS TV
+https://isaocorp.cloudecast.com/kisstv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",MTV | PLUTO TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc84b6d4-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66f1c813-a6b5-4763-bf2c-4a8cc5a4f859
+#EXTINF:-1 tvg-id="MTV BIGGEST POP" tvg-name="MTV BIGGEST POP" tvg-logo="https://imgur.com/8uGhB6m.png" group-title="🎶 Music 01",MTV BIGGEST POP
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aa3200-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93901adb-1cd6-4054-9f35-6f3746b30848&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://imgur.com/tkGS2FS.png" group-title="🎶 Music 01",MTV CLASSIC
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-id="MTVClassic.us@Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="🎶 Music 01",MTV CLASSIC
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
+#EXTINF:-1 tvg-id="MTVClassic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="🎶 Music 01",MTV CLASSIC (360P)
+https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMTVClassic.us" tvg-logo="https://i.imgur.com/NPavpts.png" group-title="🎶 Music 01",MTV CLASSIC | PLUTO TV
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:-1 tvg-id="6329cf28ef924b00078a9dc1" tvg-logo="https://images.pluto.tv/channels/6329cf28ef924b00078a9dc1/colorLogoPNG.png" group-title="🎶 Music 01",MTV CLASSIC | PLUTO TV SUÉCIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6329cf28ef924b00078a9dc1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="MTVHitsEurope.uk" tvg-logo="https://i.imgur.com/zNscEST.png" group-title="🎶 Music 01",MTV HITS EUROPE
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-logo="" group-title="🎶 Music 01",MTV LIVE 
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="6331a5f83eb57800074d4a0d" tvg-logo="https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/colorLogoPNG.png" group-title="🎶 Music 01",MTV MOVIE HITS | PLUTO TV SUÉCIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6331a5f83eb57800074d4a0d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",MTV MUSIC
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc8-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f02a8ef1-7c07-44f9-9197-c9b197dbc277
+#EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="🎶 Music 01",MTV PARTY MUSIC
+https://stitcher.pluto.tv/stitch/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09199ec6-d1d4-11ef-a04e-52b31f7da4f7
+#EXTINF:-1 tvg-logo="https://imgur.com/p3BDDSY.png" group-title="🎶 Music 01",MTV ROCKS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01e07d2d50d0008100d6a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+#EXTINF:-1 tvg-id="638f2e8fedb23c000859345e" tvg-logo="https://images.pluto.tv/channels/638f2e8fedb23c000859345e/colorLogoPNG.png" group-title="🎶 Music 01",MTV ROCKZONE | PLUTO TV SUÉCIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638f2e8fedb23c000859345e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="FLASHBACK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="🎶 Music 01",MUZZIK FLASHBACK
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-id="RockRoll.rs" tvg-logo="https://i.imgur.com/sy1BDNK.png" group-title="🎶 Music 01",MUZZIK ROCK N'ROLL
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="🎶 Music 01",NOW 70'S
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="🎶 Music 01",NOW 80'S
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqn7c8Rq6aoXBdsQ9y8prBeUMIvjIXc826mC6SgIqwjM4VHPTzzIVZzV4&s" group-title="🎶 Music 01",NOW 90'S
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="🎶 Music 01",NOW ROCK
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PVW87Yt.png" group-title="🎶 Music 01",PLUTO TV KARAOKÊ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="PLUTO TV SHOWS por Stingray" tvg-logo="https://imgur.com/q5BwJwX.png" group-title="🎶 Music 01",PLUTO TV SHOWS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d759160-c883-11eb-a960-3d434807f51f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59dd21f-38ed-446d-8348-e9e4b6640131&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="https://i.imgur.com/0RzUswR.png" group-title="🎶 Music 01",POWER LOVE
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Retro🎶 Music 01TV.cz" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="🎶 Music 01",RETRO MUSIC TELEVISION
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bfhQSzB.png" group-title="🎶 Music 01",RETRO PLUS
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="🎶 Music 01",ROCK TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-id="RockTV.mk" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="🎶 Music 01",ROCK TV
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-id="TELE7MUSIC.ro" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="🎶 Music 01",TELE7MUSIC
+https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="VClassicTV.cl" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="🎶 Music 01",VCLASSIC TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="🎶 Music 01",VEVO 2K
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
+#EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="🎶 Music 01",VEVO 2K | PLUTO TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Vevo70s.us" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="🎶 Music 01",VEVO 70'S
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b
+#EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="🎶 Music 01",VEVO 70'S | PLUTO TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Vevo80s.us" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="🎶 Music 01",VEVO 80'S
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="🎶 Music 01",VEVO 80'S | PLUTO TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="🎶 Music 01",VEVO 90'S
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",VEVO 90'S & 00'S ITALY (1080P)
+https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="🎶 Music 01",VEVO 90'S | PLUTO TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="VevoLatino.us@SD" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="🎶 Music 01",VEVO LATINO (1080P)
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="🎶 Music 01",VEVO POP | PLUTO TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="VevoPop.us@SD" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="🎶 Music 01",VEVO POP 01
+https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",VEVO POP 02
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="🎶 Music 01",VEVO POP 03
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce912-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48fd2d58-c66f-492e-90a6-986e95bbc2e9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",VEVO POP GERMANY
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",VEVO POP ITALY
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",VEVO POP SPAIN
+https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoRB.us" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="🎶 Music 01",VEVO R&B
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
+#EXTINF:-1 tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="http://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="🎶 Music 01",VEVO RETRO ROCK | PLUTO TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="BR| VH1 HD" tvg-logo="https://lo1.in/BR/vh1.png" group-title="🎶 Music 01",VH1 BRASIL HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162557.m3u8
+#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="🎶 Music 01",VH1 CLASSICS | PLUTO TV ESPANHA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="🎶 Music 01",VVH1 MUSIC LEGENDS ITALY
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/colorLogoPNG.png" group-title="🎶 Music 01",VH1 ROCK ITALY
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-name="VH1+ Back to 90's – Pluto TV" tvg-logo="https://i.imgur.com/vGgh3cs.png" group-title="🎶 Music 01",VH1+ BACK TO 90'S | PLUTO TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6552085aab05240008b05f6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="Vintage🎶 Music 01.cr" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" group-title="🎶 Music 01",VINTAGE MUSIC
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="🎶 Music 01",VINTAGE TV 
+https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",XITE
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DEBA2200007V6" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="🎶 Music 01",XITE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🎶 Music 01",XITE ROCK
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3735-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f428e683-63a3-4e04-a7ac-126caa2fda54
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5ehbndpd" group-title="🎶 Music 02",1MUS (RUSSIA)
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/22bwuzv7" group-title="🎶 Music 02",4FUN TV (POLAND)
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/414341d5a8c89cbcd4c0e5b620344099.webp"  group-title="🎶 Music 02",AGITO MAX
+https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
+#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-logo="https://alternatv.ar/alternatv.png" group-title="🎶 Music 02",ALTERNA TV
+https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="🎶 Music 02",ATOMIC ACADEMY
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YUw4UMh.png" group-title="🎶 Music 02",BLINK 102.7 (MS)
+https://video08.logicahost.com.br/blinkvideo08/blinkvideo08/chunklist_w2090174935.m3u8
+#EXTINF:-1 group-title="🎶 Music 02" tvg-id="CompanyTV.it" tvg-logo="https://i.imgur.com/ccdwsWj.png",COMPANY TV
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF: -1 tvg-logo="https://nxplay-images.comets.com.br/resize/67167045cf334_35638a5d8e90284bd5ddd0b644070015.png" group-title="🎶 Music 02",HALLO! MUSIC
+https://cdn-5.nxplay.com.br/HALLOMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎶 Music 02" tvg-id="HITTV.es" tvg-logo="https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1" ,HIT TV
+http://185.189.225.149/HitTV/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp"  group-title="🎶 Music 02",KPOP TV
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycynrr3v" group-title="🎶 Music 02",KRONEHIT (AUSTRIA)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/d56fw36b" group-title="🎶 Music 02",M2O
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/5ynf3xzs" group-title="🎶 Music 02",MAIS UM
+https://stream.ichibantv.com:3230/hybrid/play.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ357UrwUde1LSF31GxReeq9Si2SmBNiJ3Yd36dw5ewjg&s" group-title="🎶 Music 02",MUZANGALA TV
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1 tvg-id="NRG.us" tvg-logo="https://i.postimg.cc/7YqHbCWW/NRG.png" group-title="🎶 Music 02",NEXT RADIO GENERATION 
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 group-title="🎶 Music 02" tvg-id="NickMusic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png",NICK MUSIC 
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ykv9rvtz" group-title="🎶 Music 02",OCKO STAR
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/UoI90JJ.png" group-title="🎶 Music 02",ON FM TV
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🎶 Music 02" tvg-id="PanikTV.gr" tvg-logo="https://i.imgur.com/13C3CPr.png" ,PANIK TV (GREEK)
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5e81953f3dcc0f50204d3e3f44a31b52.webp" group-title="🎶 Music 02",QWEST TV
+https://plexaaaaa-qwest-jazz-plex-miu19.amagi.tv/playlist/plexAAAAA-qwest-jazz-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y3sjn7mz" group-title="🎶 Music 02",RTL (ITALY)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 group-title="🎶 Music 02" tvg-id="TheVoice.bg" tvg-logo="https://i.imgur.com/OoJSmoj.png" ,THE VOICE TV 
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5773a6c94eda6bbb4fc9e82594c56e7a.webp"  group-title="🎶 Music 02",TOP TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:-1 group-title="🎶 Music 02" tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/2ENPzfC.png" group-title="🎶 Music 02",TV 538 (NETHERLANDS)
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+#EXTINF:-1 group-title="🎶 Music 02" tvg-id="UrbanoTV.cr" tvg-logo="https://i.imgur.com/KVVU9PI.png" ,URBANO TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yc3ce29y" group-title="🎶 Music 02",V2BEAT
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png",SPORTV FHD
+http://vtxonline.xyz:80/463748763/512401626/575065
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png",SPORTV HD
+http://vtxonline.xyz:80/463748763/512401626/575066
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png",SPORTV SD
+http://vtxonline.xyz:80/463748763/512401626/575067
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv2.png",SPORTV 2 FHD
+http://vtxonline.xyz:80/463748763/512401626/575068
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv2.png",SPORTV 2 HD
+http://vtxonline.xyz:80/463748763/512401626/575069
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv2.png",SPORTV 2 SD
+http://vtxonline.xyz:80/463748763/512401626/575070
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv3.png",SPORTV 3 FHD
+http://vtxonline.xyz:80/463748763/512401626/575071
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv3.png",SPORTV 3 HD
+http://vtxonline.xyz:80/463748763/512401626/575072
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv3.png",SPORTV 3 SD
+http://vtxonline.xyz:80/463748763/512401626/575073
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv4.png",SPORTV 4 FHD
+http://vtxonline.xyz:80/463748763/512401626/575074
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv4.png",SPORTV 4 HD
+http://vtxonline.xyz:80/463748763/512401626/575075
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv4.png",SPORTV 4 SD
+http://vtxonline.xyz:80/463748763/512401626/575076
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png",HBO FHD
+http://vtxonline.xyz:80/463748763/512401626/574671
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png",HBO HD
+http://vtxonline.xyz:80/463748763/512401626/574672
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png",HBO SD
+http://vtxonline.xyz:80/463748763/512401626/574673
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png",HBO 2 FHD
+http://vtxonline.xyz:80/463748763/512401626/574674
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png",HBO 2 HD
+http://vtxonline.xyz:80/463748763/512401626/574675
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png",HBO 2 SD
+http://vtxonline.xyz:80/463748763/512401626/574676
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png",HBO FAMILY FHD
+http://vtxonline.xyz:80/463748763/512401626/574677
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png",HBO FAMILY HD
+http://vtxonline.xyz:80/463748763/512401626/574678
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png",HBO FAMILY SD
+http://vtxonline.xyz:80/463748763/512401626/574679
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbomundi.png",HBO MUNDI FHD
+http://vtxonline.xyz:80/463748763/512401626/574680
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbomundi.png",HBO MUNDI HD
+http://vtxonline.xyz:80/463748763/512401626/574681
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbomundi.png",HBO MUNDI SD
+http://vtxonline.xyz:80/463748763/512401626/574682
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboplus.png",HBO PLUS FHD
+http://vtxonline.xyz:80/463748763/512401626/574683
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboplus.png",HBO PLUS HD
+http://vtxonline.xyz:80/463748763/512401626/574684
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboplus.png",HBO PLUS SD
+http://vtxonline.xyz:80/463748763/512401626/574685
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbopop.png",HBO POP FHD
+http://vtxonline.xyz:80/463748763/512401626/574686
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbopop.png",HBO POP HD
+http://vtxonline.xyz:80/463748763/512401626/574687
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbopop.png",HBO POP SD
+http://vtxonline.xyz:80/463748763/512401626/574688
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png",HBO SIGNATURE FHD
+http://vtxonline.xyz:80/463748763/512401626/574689
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png",HBO SIGNATURE HD
+http://vtxonline.xyz:80/463748763/512401626/574690
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png",HBO SIGNATURE SD
+http://vtxonline.xyz:80/463748763/512401626/574691
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png",HBO XTREME FHD
+http://vtxonline.xyz:80/463748763/512401626/574692
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png",HBO XTREME HD
+http://vtxonline.xyz:80/463748763/512401626/574693
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png",HBO XTREME SD
+http://vtxonline.xyz:80/463748763/512401626/574694
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/cultura.png",CULTURA FHD
+http://vtxonline.xyz:80/463748763/512401626/574695
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/cultura.png",CULTURA HD
+http://vtxonline.xyz:80/463748763/512401626/574696
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/cultura.png",CULTURA SD
+http://vtxonline.xyz:80/463748763/512401626/574697
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/futura.png",FUTURA FHD
+http://vtxonline.xyz:80/463748763/512401626/574698
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/futura.png",FUTURA HD
+http://vtxonline.xyz:80/463748763/512401626/574699
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/futura.png",FUTURA SD
+http://vtxonline.xyz:80/463748763/512401626/574700
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/redetv.png",REDETV! FHD
+http://vtxonline.xyz:80/463748763/512401626/574701
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/redetv.png",REDETV! HD
+http://vtxonline.xyz:80/463748763/512401626/574702
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/redetv.png",REDETV! SD
+http://vtxonline.xyz:80/463748763/512401626/574703
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://www.fontedecanais.tv/logos/canais/canaldoboi.png",CANAL DO BOI
+http://vtxonline.xyz:80/463748763/512401626/574707
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://www.fontedecanais.tv/logos/canais/canalrural.png",CANAL RURAL
+http://vtxonline.xyz:80/463748763/512401626/574708
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://www.fontedecanais.tv/logos/canais/tvbrasil.png",TV BRASIL
+http://vtxonline.xyz:80/463748763/512401626/574709
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://www.fontedecanais.tv/logos/canais/tvcamara.png",TV CAMARA
+http://vtxonline.xyz:80/463748763/512401626/574710
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://www.fontedecanais.tv/logos/canais/tvjustica.png",TV JUSTICA E RADIO JUSTICA
+http://vtxonline.xyz:80/463748763/512401626/574711
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://www.fontedecanais.tv/logos/canais/tvsenado.png",TV SENADO
+http://vtxonline.xyz:80/463748763/512401626/574712
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/tvgazeta.png",TV GAZETA
+http://vtxonline.xyz:80/463748763/512401626/574713
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/agromais.png",AGRO+
+http://vtxonline.xyz:80/463748763/512401626/574714
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://tellaplay.xyz/Imagens/terraviva223.png",TERRA VIVA
+http://vtxonline.xyz:80/463748763/512401626/574715
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://tellaplay.xyz/Imagens/tvebahia8.png",TVE BAHIA
+http://vtxonline.xyz:80/463748763/512401626/574716
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND BAHIA FHD
+http://vtxonline.xyz:80/463748763/512401626/574717
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND BAHIA HD
+http://vtxonline.xyz:80/463748763/512401626/574718
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND BAHIA SD
+http://vtxonline.xyz:80/463748763/512401626/574719
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND BRASILIA FHD
+http://vtxonline.xyz:80/463748763/512401626/574720
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND BRASILIA HD
+http://vtxonline.xyz:80/463748763/512401626/574721
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND BRASILIA SD
+http://vtxonline.xyz:80/463748763/512401626/574722
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND CAMPINAS FHD
+http://vtxonline.xyz:80/463748763/512401626/574723
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND CAMPINAS HD
+http://vtxonline.xyz:80/463748763/512401626/574724
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND CAMPINAS SD
+http://vtxonline.xyz:80/463748763/512401626/574725
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND MINAS FHD
+http://vtxonline.xyz:80/463748763/512401626/574726
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND MINAS HD
+http://vtxonline.xyz:80/463748763/512401626/574727
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND MINAS SD
+http://vtxonline.xyz:80/463748763/512401626/574728
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND PARANÁ FHD
+http://vtxonline.xyz:80/463748763/512401626/574729
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND PARANÁ HD
+http://vtxonline.xyz:80/463748763/512401626/574730
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND PARANÁ SD
+http://vtxonline.xyz:80/463748763/512401626/574731
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND RIO FHD
+http://vtxonline.xyz:80/463748763/512401626/574732
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND RIO HD
+http://vtxonline.xyz:80/463748763/512401626/574733
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND RIO SD
+http://vtxonline.xyz:80/463748763/512401626/574734
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND RIO GRANDE DO SUL FHD
+http://vtxonline.xyz:80/463748763/512401626/574735
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND RIO GRANDE DO SUL HD
+http://vtxonline.xyz:80/463748763/512401626/574736
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND RIO GRANDE DO SUL SD
+http://vtxonline.xyz:80/463748763/512401626/574737
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND SÃO PAULO FHD
+http://vtxonline.xyz:80/463748763/512401626/574738
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND SÃO PAULO HD
+http://vtxonline.xyz:80/463748763/512401626/574739
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png",BAND SÃO PAULO SD
+http://vtxonline.xyz:80/463748763/512401626/574740
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png",CINE SKY 01
+http://vtxonline.xyz:80/463748763/512401626/574741
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png",CINE SKY 02
+http://vtxonline.xyz:80/463748763/512401626/574742
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png",CINE SKY 03
+http://vtxonline.xyz:80/463748763/512401626/574743
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png",CINE SKY 04
+http://vtxonline.xyz:80/463748763/512401626/574744
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png",CINE SKY 05
+http://vtxonline.xyz:80/463748763/512401626/574745
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png",CINE SKY 06
+http://vtxonline.xyz:80/463748763/512401626/574746
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png",CINE SKY 07
+http://vtxonline.xyz:80/463748763/512401626/574747
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png",CINE SKY 08
+http://vtxonline.xyz:80/463748763/512401626/574748
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png",CINE SKY 09
+http://vtxonline.xyz:80/463748763/512401626/574749
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png",CINE SKY 10
+http://vtxonline.xyz:80/463748763/512401626/574750
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png",ANIMAL PLANET FHD
+http://vtxonline.xyz:80/463748763/512401626/574751
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png",ANIMAL PLANET HD
+http://vtxonline.xyz:80/463748763/512401626/574752
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png",ANIMAL PLANET SD
+http://vtxonline.xyz:80/463748763/512401626/574753
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/arte1.png",ARTE1 FHD
+http://vtxonline.xyz:80/463748763/512401626/574754
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/arte1.png",ARTE1 HD
+http://vtxonline.xyz:80/463748763/512401626/574755
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/arte1.png",ARTE1 SD
+http://vtxonline.xyz:80/463748763/512401626/574756
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/curta.png",CURTA! FHD
+http://vtxonline.xyz:80/463748763/512401626/574757
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/curta.png",CURTA! HD
+http://vtxonline.xyz:80/463748763/512401626/574758
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/curta.png",CURTA! SD
+http://vtxonline.xyz:80/463748763/512401626/574759
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",DISCOVERY CHANNEL FHD
+http://vtxonline.xyz:80/463748763/512401626/574760
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",DISCOVERY CHANNEL HD
+http://vtxonline.xyz:80/463748763/512401626/574761
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverychannel.png",DISCOVERY CHANNEL SD
+http://vtxonline.xyz:80/463748763/512401626/574762
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryscience.png",DISCOVERY SCIENCE FHD
+http://vtxonline.xyz:80/463748763/512401626/574763
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryscience.png",DISCOVERY SCIENCE HD
+http://vtxonline.xyz:80/463748763/512401626/574764
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryscience.png",DISCOVERY SCIENCE SD
+http://vtxonline.xyz:80/463748763/512401626/574765
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverytheater.png",DISCOVERY THEATER FHD
+http://vtxonline.xyz:80/463748763/512401626/574766
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverytheater.png",DISCOVERY THEATER HD
+http://vtxonline.xyz:80/463748763/512401626/574767
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverytheater.png",DISCOVERY THEATER SD
+http://vtxonline.xyz:80/463748763/512401626/574768
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryworld.png",DISCOVERY WORLD FHD
+http://vtxonline.xyz:80/463748763/512401626/574769
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryworld.png",DISCOVERY WORLD HD
+http://vtxonline.xyz:80/463748763/512401626/574770
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryworld.png",DISCOVERY WORLD SD
+http://vtxonline.xyz:80/463748763/512401626/574771
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/h2.png",H2 FHD
+http://vtxonline.xyz:80/463748763/512401626/574772
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/h2.png",H2 HD
+http://vtxonline.xyz:80/463748763/512401626/574773
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/h2.png",H2 SD
+http://vtxonline.xyz:80/463748763/512401626/574774
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/hgtv.png",HGTV FHD
+http://vtxonline.xyz:80/463748763/512401626/574775
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/hgtv.png",HGTV HD
+http://vtxonline.xyz:80/463748763/512401626/574776
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/hgtv.png",HGTV SD
+http://vtxonline.xyz:80/463748763/512401626/574777
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/history.png",HISTORY FHD
+http://vtxonline.xyz:80/463748763/512401626/574778
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/history.png",HISTORY HD
+http://vtxonline.xyz:80/463748763/512401626/574779
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/history.png",HISTORY SD
+http://vtxonline.xyz:80/463748763/512401626/574780
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/id.png",ID: INVESTIGAÇÃO DISCOVERY FHD
+http://vtxonline.xyz:80/463748763/512401626/574781
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/id.png",ID: INVESTIGAÇÃO DISCOVERY HD
+http://vtxonline.xyz:80/463748763/512401626/574782
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/id.png",ID: INVESTIGAÇÃO DISCOVERY SD
+http://vtxonline.xyz:80/463748763/512401626/574783
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png",ESPN FHD
+http://vtxonline.xyz:80/463748763/512401626/574784
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png",ESPN HD
+http://vtxonline.xyz:80/463748763/512401626/574785
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png",ESPN SD
+http://vtxonline.xyz:80/463748763/512401626/574786
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn2.png",ESPN 2 FHD
+http://vtxonline.xyz:80/463748763/512401626/574787
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn2.png",ESPN 2 HD
+http://vtxonline.xyz:80/463748763/512401626/574788
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn2.png",ESPN 2 SD
+http://vtxonline.xyz:80/463748763/512401626/574789
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn3.png",ESPN 3 FHD
+http://vtxonline.xyz:80/463748763/512401626/574790
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn3.png",ESPN 3 HD
+http://vtxonline.xyz:80/463748763/512401626/574791
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn3.png",ESPN 3 SD
+http://vtxonline.xyz:80/463748763/512401626/574792
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn4.png",ESPN 4 FHD
+http://vtxonline.xyz:80/463748763/512401626/574793
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn4.png",ESPN 4 HD
+http://vtxonline.xyz:80/463748763/512401626/574794
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn4.png",ESPN 4 SD
+http://vtxonline.xyz:80/463748763/512401626/574795
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn5.png",ESPN 5 FHD
+http://vtxonline.xyz:80/463748763/512401626/574796
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn5.png",ESPN 5 HD
+http://vtxonline.xyz:80/463748763/512401626/574797
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn5.png",ESPN 5 SD
+http://vtxonline.xyz:80/463748763/512401626/574798
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn6.png",ESPN 6 FHD
+http://vtxonline.xyz:80/463748763/512401626/574799
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn6.png",ESPN 6 HD
+http://vtxonline.xyz:80/463748763/512401626/574800
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn6.png",ESPN 6 SD
+http://vtxonline.xyz:80/463748763/512401626/574801
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandsports.png",BAND SPORTS FHD
+http://vtxonline.xyz:80/463748763/512401626/574802
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandsports.png",BAND SPORTS HD
+http://vtxonline.xyz:80/463748763/512401626/574803
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandsports.png",BAND SPORTS SD
+http://vtxonline.xyz:80/463748763/512401626/574804
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/fishtv.png",FISHTV FHD
+http://vtxonline.xyz:80/463748763/512401626/575095
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/fishtv.png",FISHTV HD
+http://vtxonline.xyz:80/463748763/512401626/575096
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/fishtv.png",FISHTV SD
+http://vtxonline.xyz:80/463748763/512401626/575097
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/woohoo.png",WOOHOO FHD
+http://vtxonline.xyz:80/463748763/512401626/575137
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/woohoo.png",WOOHOO HD
+http://vtxonline.xyz:80/463748763/512401626/575138
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/woohoo.png",WOOHOO SD
+http://vtxonline.xyz:80/463748763/512401626/575139
+#EXTINF:-1 group-title="Esporte" tvg-logo="https://tellaplay.xyz/Imagens/NBATV.png",NBA TV
+http://vtxonline.xyz:80/463748763/512401626/872803
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/ufcfightpass.png",UFC FIGHT PASS 1 (REPRISES)
+http://vtxonline.xyz:80/463748763/512401626/574805
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/ufcfightpass.png",UFC FIGHT PASS 2 (AO VIVO)
+http://vtxonline.xyz:80/463748763/512401626/574806
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/ufcfightpass.png",UFC FIGHT PASS 3 (AO VIVO)
+http://vtxonline.xyz:80/463748763/512401626/574807
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/combate.png",COMBATE FHD
+http://vtxonline.xyz:80/463748763/512401626/574808
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/combate.png",COMBATE HD
+http://vtxonline.xyz:80/463748763/512401626/574809
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/combate.png",COMBATE SD
+http://vtxonline.xyz:80/463748763/512401626/574810
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/primevideo.png",AMAZON PRIME VIDEO 01
+http://vtxonline.xyz:80/463748763/512401626/574811
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/primevideo.png",AMAZON PRIME VIDEO 02
+http://vtxonline.xyz:80/463748763/512401626/574812
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/primevideo.png",AMAZON PRIME VIDEO 03
+http://vtxonline.xyz:80/463748763/512401626/574813
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportynet.png",SPORTYNET 01
+http://vtxonline.xyz:80/463748763/512401626/574814
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportynet2.png",SPORTYNET 02
+http://vtxonline.xyz:80/463748763/512401626/574815
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportynet3.png",SPORTYNET 03
+http://vtxonline.xyz:80/463748763/512401626/574816
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png",DAZN 1
+http://vtxonline.xyz:80/463748763/512401626/574817
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png",DAZN 2
+http://vtxonline.xyz:80/463748763/512401626/574818
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png",DAZN 3
+http://vtxonline.xyz:80/463748763/512401626/574819
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png",MAX 01
+http://vtxonline.xyz:80/463748763/512401626/574820
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png",MAX 02
+http://vtxonline.xyz:80/463748763/512401626/574821
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png",MAX 03
+http://vtxonline.xyz:80/463748763/512401626/574822
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png",MAX 04
+http://vtxonline.xyz:80/463748763/512401626/574823
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png",MAX 05
+http://vtxonline.xyz:80/463748763/512401626/574824
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png",MAX 06
+http://vtxonline.xyz:80/463748763/512401626/574825
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png",MAX 07
+http://vtxonline.xyz:80/463748763/512401626/574826
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 1
+http://vtxonline.xyz:80/463748763/512401626/574827
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 2
+http://vtxonline.xyz:80/463748763/512401626/574828
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 3
+http://vtxonline.xyz:80/463748763/512401626/574829
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 4
+http://vtxonline.xyz:80/463748763/512401626/574830
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 5
+http://vtxonline.xyz:80/463748763/512401626/574831
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 6
+http://vtxonline.xyz:80/463748763/512401626/574832
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 7
+http://vtxonline.xyz:80/463748763/512401626/574833
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 8
+http://vtxonline.xyz:80/463748763/512401626/574834
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 9
+http://vtxonline.xyz:80/463748763/512401626/574835
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 10
+http://vtxonline.xyz:80/463748763/512401626/574836
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 11
+http://vtxonline.xyz:80/463748763/512401626/574837
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 12
+http://vtxonline.xyz:80/463748763/512401626/574838
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 13
+http://vtxonline.xyz:80/463748763/512401626/574839
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 14
+http://vtxonline.xyz:80/463748763/512401626/574840
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 15
+http://vtxonline.xyz:80/463748763/512401626/574841
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 16
+http://vtxonline.xyz:80/463748763/512401626/574842
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 17
+http://vtxonline.xyz:80/463748763/512401626/574843
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 18
+http://vtxonline.xyz:80/463748763/512401626/574844
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 19
+http://vtxonline.xyz:80/463748763/512401626/574845
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png",DISNEY+ 20
+http://vtxonline.xyz:80/463748763/512401626/574846
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/nsports.png",NSPORTS FHD
+http://vtxonline.xyz:80/463748763/512401626/574847
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/nsports.png",NSPORTS HD
+http://vtxonline.xyz:80/463748763/512401626/574848
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/nsports.png",NSPORTS SD
+http://vtxonline.xyz:80/463748763/512401626/574849
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/cazetv.png",CAZETV 01
+http://vtxonline.xyz:80/463748763/512401626/574850
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/cazetv.png",CAZETV 02
+http://vtxonline.xyz:80/463748763/512401626/574851
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/cazetv.png",CAZETV 03
+http://vtxonline.xyz:80/463748763/512401626/574852
+#EXTINF:-1 group-title="Esporte" tvg-logo="https://www.fontedecanais.tv/logos/canais/paramountplus.png",PARAMOUNT+ 1
+http://vtxonline.xyz:80/463748763/512401626/574853
+#EXTINF:-1 group-title="Esporte" tvg-logo="https://www.fontedecanais.tv/logos/canais/paramountplus.png",PARAMOUNT+ 2
+http://vtxonline.xyz:80/463748763/512401626/574854
+#EXTINF:-1 group-title="Esporte" tvg-logo="https://www.fontedecanais.tv/logos/canais/paramountplus.png",PARAMOUNT+ 3
+http://vtxonline.xyz:80/463748763/512401626/574855
+#EXTINF:-1 group-title="Esporte" tvg-logo="https://www.fontedecanais.tv/logos/canais/paramountplus.png",PARAMOUNT+ 4
+http://vtxonline.xyz:80/463748763/512401626/574856
+#EXTINF:-1 group-title="Esporte" tvg-logo="https://tellaplay.xyz/Imagens/remo97.png",REMO TV
+http://vtxonline.xyz:80/463748763/512401626/574857
+#EXTINF:-1 group-title="Esporte" tvg-logo="https://tellaplay.xyz/Imagens/papaa33.png",PAPÃOTV
+http://vtxonline.xyz:80/463748763/512401626/574858
+#EXTINF:-1 group-title="Esporte" tvg-logo="https://www.fontedecanais.tv/logos/canais/xsports.png",XSPORTS
+http://vtxonline.xyz:80/463748763/512401626/574859
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalgoat.png",CANAL GOAT 01
+http://vtxonline.xyz:80/463748763/512401626/574860
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalgoat.png",CANAL GOAT 02
+http://vtxonline.xyz:80/463748763/512401626/574861
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalgoat.png",CANAL GOAT 03
+http://vtxonline.xyz:80/463748763/512401626/574862
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png",A&E FHD
+http://vtxonline.xyz:80/463748763/512401626/575077
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png",A&E HD
+http://vtxonline.xyz:80/463748763/512401626/575078
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/ae.png",A&E SD
+http://vtxonline.xyz:80/463748763/512401626/575079
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/amc.png",AMC FHD
+http://vtxonline.xyz:80/463748763/512401626/574863
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/amc.png",AMC HD
+http://vtxonline.xyz:80/463748763/512401626/574864
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/amc.png",AMC SD
+http://vtxonline.xyz:80/463748763/512401626/574865
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/axn.png",AXN FHD
+http://vtxonline.xyz:80/463748763/512401626/574866
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/axn.png",AXN HD
+http://vtxonline.xyz:80/463748763/512401626/574867
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/axn.png",AXN SD
+http://vtxonline.xyz:80/463748763/512401626/574868
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalbrasil.png",CANAL BRASIL FHD
+http://vtxonline.xyz:80/463748763/512401626/574869
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalbrasil.png",CANAL BRASIL HD
+http://vtxonline.xyz:80/463748763/512401626/574870
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/canalbrasil.png",CANAL BRASIL SD
+http://vtxonline.xyz:80/463748763/512401626/574871
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinemax.png",CINEMAX FHD
+http://vtxonline.xyz:80/463748763/512401626/574872
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinemax.png",CINEMAX HD
+http://vtxonline.xyz:80/463748763/512401626/574873
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinemax.png",CINEMAX SD
+http://vtxonline.xyz:80/463748763/512401626/574874
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/megapix.png",MEGAPIX FHD
+http://vtxonline.xyz:80/463748763/512401626/574875
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/megapix.png",MEGAPIX HD
+http://vtxonline.xyz:80/463748763/512401626/574876
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/megapix.png",MEGAPIX SD
+http://vtxonline.xyz:80/463748763/512401626/574877
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/paramountchannel.png",PARAMOUNT NETWORK FHD
+http://vtxonline.xyz:80/463748763/512401626/574878
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/paramountchannel.png",PARAMOUNT NETWORK HD
+http://vtxonline.xyz:80/463748763/512401626/574879
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/paramountchannel.png",PARAMOUNT NETWORK SD
+http://vtxonline.xyz:80/463748763/512401626/574880
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/sonychannel.png",SONY CHANNEL FHD
+http://vtxonline.xyz:80/463748763/512401626/574881
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/sonychannel.png",SONY CHANNEL HD
+http://vtxonline.xyz:80/463748763/512401626/574882
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/sonychannel.png",SONY CHANNEL SD
+http://vtxonline.xyz:80/463748763/512401626/574883
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/sonymovies.png",SONY MOVIES FHD
+http://vtxonline.xyz:80/463748763/512401626/574884
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/sonymovies.png",SONY MOVIES HD
+http://vtxonline.xyz:80/463748763/512401626/574885
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/sonymovies.png",SONY MOVIES SD
+http://vtxonline.xyz:80/463748763/512401626/574886
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/space.png",SPACE FHD
+http://vtxonline.xyz:80/463748763/512401626/574887
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/space.png",SPACE HD
+http://vtxonline.xyz:80/463748763/512401626/574888
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/space.png",SPACE SD
+http://vtxonline.xyz:80/463748763/512401626/574889
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/usa.png",USA FHD
+http://vtxonline.xyz:80/463748763/512401626/574890
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/usa.png",USA HD
+http://vtxonline.xyz:80/463748763/512401626/574891
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/usa.png",USA SD
+http://vtxonline.xyz:80/463748763/512401626/574892
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntnovelas.png",TNT NOVELAS FHD
+http://vtxonline.xyz:80/463748763/512401626/574893
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntnovelas.png",TNT NOVELAS HD
+http://vtxonline.xyz:80/463748763/512401626/574894
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntnovelas.png",TNT NOVELAS SD
+http://vtxonline.xyz:80/463748763/512401626/574895
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/tnt.png",TNT FHD
+http://vtxonline.xyz:80/463748763/512401626/574896
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/tnt.png",TNT HD
+http://vtxonline.xyz:80/463748763/512401626/574897
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/tnt.png",TNT SD
+http://vtxonline.xyz:80/463748763/512401626/574898
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntseries.png",TNT SÉRIES FHD
+http://vtxonline.xyz:80/463748763/512401626/574899
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntseries.png",TNT SÉRIES HD
+http://vtxonline.xyz:80/463748763/512401626/574900
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntseries.png",TNT SÉRIES SD
+http://vtxonline.xyz:80/463748763/512401626/574901
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/universaltv.png",UNIVERSAL TV FHD
+http://vtxonline.xyz:80/463748763/512401626/574902
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/universaltv.png",UNIVERSAL TV HD
+http://vtxonline.xyz:80/463748763/512401626/574903
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/universaltv.png",UNIVERSAL TV SD
+http://vtxonline.xyz:80/463748763/512401626/574904
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/studiouniversal.png",STUDIO UNIVERSAL FHD
+http://vtxonline.xyz:80/463748763/512401626/574905
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/studiouniversal.png",STUDIO UNIVERSAL HD
+http://vtxonline.xyz:80/463748763/512401626/574906
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/studiouniversal.png",STUDIO UNIVERSAL SD
+http://vtxonline.xyz:80/463748763/512401626/574907
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/warnerchannel.png",WARNER CHANNEL FHD
+http://vtxonline.xyz:80/463748763/512401626/574908
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/warnerchannel.png",WARNER CHANNEL HD
+http://vtxonline.xyz:80/463748763/512401626/574909
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/warnerchannel.png",WARNER CHANNEL SD
+http://vtxonline.xyz:80/463748763/512401626/574910
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/tcm.png",TCM FHD
+http://vtxonline.xyz:80/463748763/512401626/574911
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/tcm.png",TCM HD
+http://vtxonline.xyz:80/463748763/512401626/574912
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/tcm.png",TCM SD
+http://vtxonline.xyz:80/463748763/512401626/574913
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png",FILM & ARTS FHD
+http://vtxonline.xyz:80/463748763/512401626/574914
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png",FILM & ARTS HD
+http://vtxonline.xyz:80/463748763/512401626/574915
+#EXTINF:-1 group-title="Filmes" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png",FILM & ARTS SD
+http://vtxonline.xyz:80/463748763/512401626/574916
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonnetwork.png",CARTOON NETWORK FHD
+http://vtxonline.xyz:80/463748763/512401626/574917
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonnetwork.png",CARTOON NETWORK HD
+http://vtxonline.xyz:80/463748763/512401626/574918
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonnetwork.png",CARTOON NETWORK SD
+http://vtxonline.xyz:80/463748763/512401626/574919
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonito.png",CARTOONITO FHD
+http://vtxonline.xyz:80/463748763/512401626/574920
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonito.png",CARTOONITO HD
+http://vtxonline.xyz:80/463748763/512401626/574921
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonito.png",CARTOONITO SD
+http://vtxonline.xyz:80/463748763/512401626/574922
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverykids.png",DISCOVERY KIDS FHD
+http://vtxonline.xyz:80/463748763/512401626/574923
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverykids.png",DISCOVERY KIDS HD
+http://vtxonline.xyz:80/463748763/512401626/574924
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverykids.png",DISCOVERY KIDS SD
+http://vtxonline.xyz:80/463748763/512401626/574925
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/gloob.png",GLOOB FHD
+http://vtxonline.xyz:80/463748763/512401626/574926
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/gloob.png",GLOOB HD
+http://vtxonline.xyz:80/463748763/512401626/574927
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/gloob.png",GLOOB SD
+http://vtxonline.xyz:80/463748763/512401626/574928
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/gloobinho.png",GLOOBINHO FHD
+http://vtxonline.xyz:80/463748763/512401626/574929
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/gloobinho.png",GLOOBINHO HD
+http://vtxonline.xyz:80/463748763/512401626/574930
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/gloobinho.png",GLOOBINHO SD
+http://vtxonline.xyz:80/463748763/512401626/574931
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/nickjr.png",NICK JR FHD
+http://vtxonline.xyz:80/463748763/512401626/574932
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/nickjr.png",NICK JR HD
+http://vtxonline.xyz:80/463748763/512401626/574933
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/nickjr.png",NICK JR SD
+http://vtxonline.xyz:80/463748763/512401626/574934
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/nickelodeon.png",NICKELODEON FHD
+http://vtxonline.xyz:80/463748763/512401626/574935
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/nickelodeon.png",NICKELODEON HD
+http://vtxonline.xyz:80/463748763/512401626/574936
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/nickelodeon.png",NICKELODEON SD
+http://vtxonline.xyz:80/463748763/512401626/574937
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/tooncast.png",TOONCAST FHD
+http://vtxonline.xyz:80/463748763/512401626/574938
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/tooncast.png",TOONCAST HD
+http://vtxonline.xyz:80/463748763/512401626/574939
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/tooncast.png",TOONCAST SD
+http://vtxonline.xyz:80/463748763/512401626/574940
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/zoomoo.png",ZOOMOO FHD
+http://vtxonline.xyz:80/463748763/512401626/574941
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/zoomoo.png",ZOOMOO HD
+http://vtxonline.xyz:80/463748763/512401626/574942
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/zoomoo.png",ZOOMOO SD
+http://vtxonline.xyz:80/463748763/512401626/574943
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/tvratimbum.png",TV RÁ TIM BUM FHD
+http://vtxonline.xyz:80/463748763/512401626/574944
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/tvratimbum.png",TV RÁ TIM BUM HD
+http://vtxonline.xyz:80/463748763/512401626/574945
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.fontedecanais.tv/logos/canais/tvratimbum.png",TV RÁ TIM BUM SD
+http://vtxonline.xyz:80/463748763/512401626/574946
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandnews.png",BAND NEWS FHD
+http://vtxonline.xyz:80/463748763/512401626/574947
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandnews.png",BAND NEWS HD
+http://vtxonline.xyz:80/463748763/512401626/574948
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandnews.png",BAND NEWS SD
+http://vtxonline.xyz:80/463748763/512401626/574949
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnbrasil.png",CNN BRASIL FHD
+http://vtxonline.xyz:80/463748763/512401626/574950
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnbrasil.png",CNN BRASIL HD
+http://vtxonline.xyz:80/463748763/512401626/574951
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnbrasil.png",CNN BRASIL SD
+http://vtxonline.xyz:80/463748763/512401626/574952
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/globonews.png",GLOBO NEWS FHD
+http://vtxonline.xyz:80/463748763/512401626/574953
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/globonews.png",GLOBO NEWS HD
+http://vtxonline.xyz:80/463748763/512401626/574954
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/globonews.png",GLOBO NEWS SD
+http://vtxonline.xyz:80/463748763/512401626/574955
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/jpnews.png",JOVEM PAN NEWS FHD
+http://vtxonline.xyz:80/463748763/512401626/574956
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/jpnews.png",JOVEM PAN NEWS HD
+http://vtxonline.xyz:80/463748763/512401626/574957
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/jpnews.png",JOVEM PAN NEWS SD
+http://vtxonline.xyz:80/463748763/512401626/574958
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png",RECORD NEWS FHD
+http://vtxonline.xyz:80/463748763/512401626/574959
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png",RECORD NEWS HD
+http://vtxonline.xyz:80/463748763/512401626/574960
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png",RECORD NEWS SD
+http://vtxonline.xyz:80/463748763/512401626/574961
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png",CNN MONEY FHD
+http://vtxonline.xyz:80/463748763/512401626/574962
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png",CNN MONEY HD
+http://vtxonline.xyz:80/463748763/512401626/574963
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png",CNN MONEY SD
+http://vtxonline.xyz:80/463748763/512401626/574964
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/timesbrasil.png",TIMES BRASIL (CNBC) FHD
+http://vtxonline.xyz:80/463748763/512401626/574965
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/timesbrasil.png",TIMES BRASIL (CNBC) HD
+http://vtxonline.xyz:80/463748763/512401626/574966
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://www.fontedecanais.tv/logos/canais/timesbrasil.png",TIMES BRASIL (CNBC) SD
+http://vtxonline.xyz:80/463748763/512401626/574967
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",﻿PREMIERE 1 FHD
+http://vtxonline.xyz:80/463748763/512401626/574968
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 1 HD
+http://vtxonline.xyz:80/463748763/512401626/574969
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 1 SD
+http://vtxonline.xyz:80/463748763/512401626/574970
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 2 FHD
+http://vtxonline.xyz:80/463748763/512401626/574971
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 2 HD
+http://vtxonline.xyz:80/463748763/512401626/574972
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 2 SD
+http://vtxonline.xyz:80/463748763/512401626/574973
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 3 FHD
+http://vtxonline.xyz:80/463748763/512401626/574974
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 3 HD
+http://vtxonline.xyz:80/463748763/512401626/574975
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 3 SD
+http://vtxonline.xyz:80/463748763/512401626/574976
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 4 FHD
+http://vtxonline.xyz:80/463748763/512401626/574977
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 4 HD
+http://vtxonline.xyz:80/463748763/512401626/574978
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 4 SD
+http://vtxonline.xyz:80/463748763/512401626/574979
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 5 FHD
+http://vtxonline.xyz:80/463748763/512401626/574980
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 5 HD
+http://vtxonline.xyz:80/463748763/512401626/574981
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 5 SD
+http://vtxonline.xyz:80/463748763/512401626/574982
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 6 FHD
+http://vtxonline.xyz:80/463748763/512401626/574983
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 6 HD
+http://vtxonline.xyz:80/463748763/512401626/574984
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 6 SD
+http://vtxonline.xyz:80/463748763/512401626/574985
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 7 FHD
+http://vtxonline.xyz:80/463748763/512401626/574986
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 7 HD
+http://vtxonline.xyz:80/463748763/512401626/574987
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 7 SD
+http://vtxonline.xyz:80/463748763/512401626/574988
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 8 FHD
+http://vtxonline.xyz:80/463748763/512401626/574989
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 8 HD
+http://vtxonline.xyz:80/463748763/512401626/574990
+#EXTINF:-1 group-title="Esporte" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png",PREMIERE 8 SD
+http://vtxonline.xyz:80/463748763/512401626/574991
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BAHIA FHD
+http://vtxonline.xyz:80/463748763/512401626/574992
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BAHIA HD
+http://vtxonline.xyz:80/463748763/512401626/574993
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BAHIA SD
+http://vtxonline.xyz:80/463748763/512401626/574994
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BAHIA ITABUNA FHD
+http://vtxonline.xyz:80/463748763/512401626/574995
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BAHIA ITABUNA HD
+http://vtxonline.xyz:80/463748763/512401626/574996
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BAHIA ITABUNA SD
+http://vtxonline.xyz:80/463748763/512401626/574997
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BAURU FHD
+http://vtxonline.xyz:80/463748763/512401626/574998
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BAURU HD
+http://vtxonline.xyz:80/463748763/512401626/574999
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BAURU SD
+http://vtxonline.xyz:80/463748763/512401626/575000
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BELÉM FHD
+http://vtxonline.xyz:80/463748763/512401626/575001
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BELÉM HD
+http://vtxonline.xyz:80/463748763/512401626/575002
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BELÉM SD
+http://vtxonline.xyz:80/463748763/512401626/575003
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BRASÍLIA FHD
+http://vtxonline.xyz:80/463748763/512401626/575004
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BRASÍLIA HD
+http://vtxonline.xyz:80/463748763/512401626/575005
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV BRASÍLIA SD
+http://vtxonline.xyz:80/463748763/512401626/575006
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV CAMPINAS FHD
+http://vtxonline.xyz:80/463748763/512401626/575007
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV CAMPINAS HD
+http://vtxonline.xyz:80/463748763/512401626/575008
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV CAMPINAS SD
+http://vtxonline.xyz:80/463748763/512401626/575009
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV CAMPOS DOS GOYTACAZES FHD
+http://vtxonline.xyz:80/463748763/512401626/575010
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV CAMPOS DOS GOYTACAZES HD
+http://vtxonline.xyz:80/463748763/512401626/575011
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV CAMPOS DOS GOYTACAZES SD
+http://vtxonline.xyz:80/463748763/512401626/575012
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV CURITIBA FHD
+http://vtxonline.xyz:80/463748763/512401626/575013
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV CURITIBA HD
+http://vtxonline.xyz:80/463748763/512401626/575014
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV CURITIBA SD
+http://vtxonline.xyz:80/463748763/512401626/575015
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV FLORIANÓPOLIS FHD
+http://vtxonline.xyz:80/463748763/512401626/575016
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV FLORIANÓPOLIS HD
+http://vtxonline.xyz:80/463748763/512401626/575017
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV FLORIANÓPOLIS SD
+http://vtxonline.xyz:80/463748763/512401626/575018
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV FORTALEZA FHD
+http://vtxonline.xyz:80/463748763/512401626/575019
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV FORTALEZA HD
+http://vtxonline.xyz:80/463748763/512401626/575020
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV FORTALEZA SD
+http://vtxonline.xyz:80/463748763/512401626/575021
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV GOIÁS FHD
+http://vtxonline.xyz:80/463748763/512401626/575022
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV GOIÁS HD
+http://vtxonline.xyz:80/463748763/512401626/575023
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV GOIÁS SD
+http://vtxonline.xyz:80/463748763/512401626/575024
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV GUAÍBA FHD
+http://vtxonline.xyz:80/463748763/512401626/575025
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV GUAÍBA HD
+http://vtxonline.xyz:80/463748763/512401626/575026
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV GUAÍBA SD
+http://vtxonline.xyz:80/463748763/512401626/575027
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV MANAUS FHD
+http://vtxonline.xyz:80/463748763/512401626/575028
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV MANAUS HD
+http://vtxonline.xyz:80/463748763/512401626/575029
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV MANAUS SD
+http://vtxonline.xyz:80/463748763/512401626/575030
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV MINAS FHD
+http://vtxonline.xyz:80/463748763/512401626/575031
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV MINAS HD
+http://vtxonline.xyz:80/463748763/512401626/575032
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV MINAS SD
+http://vtxonline.xyz:80/463748763/512401626/575033
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV RECIFE FHD
+http://vtxonline.xyz:80/463748763/512401626/575034
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV RECIFE HD
+http://vtxonline.xyz:80/463748763/512401626/575035
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV RECIFE SD
+http://vtxonline.xyz:80/463748763/512401626/575036
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV RIBEIRÃO PRETO FHD
+http://vtxonline.xyz:80/463748763/512401626/575037
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV RIBEIRÃO PRETO HD
+http://vtxonline.xyz:80/463748763/512401626/575038
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV RIBEIRÃO PRETO SD
+http://vtxonline.xyz:80/463748763/512401626/575039
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV RIO FHD
+http://vtxonline.xyz:80/463748763/512401626/575040
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV RIO HD
+http://vtxonline.xyz:80/463748763/512401626/575041
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV RIO SD
+http://vtxonline.xyz:80/463748763/512401626/575042
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV RIO PRETO FHD
+http://vtxonline.xyz:80/463748763/512401626/575043
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV RIO PRETO HD
+http://vtxonline.xyz:80/463748763/512401626/575044
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV RIO PRETO SD
+http://vtxonline.xyz:80/463748763/512401626/575045
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV SANTOS E VALE FHD
+http://vtxonline.xyz:80/463748763/512401626/575046
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV SANTOS E VALE HD
+http://vtxonline.xyz:80/463748763/512401626/575047
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV SANTOS E VALE SD
+http://vtxonline.xyz:80/463748763/512401626/575048
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV SÃO PAULO FHD
+http://vtxonline.xyz:80/463748763/512401626/575049
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV SÃO PAULO HD
+http://vtxonline.xyz:80/463748763/512401626/575050
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV SÃO PAULO SD
+http://vtxonline.xyz:80/463748763/512401626/575051
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV VITÓRIA FHD
+http://vtxonline.xyz:80/463748763/512401626/575052
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV VITÓRIA HD
+http://vtxonline.xyz:80/463748763/512401626/575053
+#EXTINF:-1 group-title="Canais Abertos" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png",RECORD TV VITÓRIA SD
+http://vtxonline.xyz:80/463748763/512401626/575054
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/bis.png",BIS FHD
+http://vtxonline.xyz:80/463748763/512401626/575080
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/bis.png",BIS HD
+http://vtxonline.xyz:80/463748763/512401626/575081
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/bis.png",BIS SD
+http://vtxonline.xyz:80/463748763/512401626/575082
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/comedycentral.png",COMEDY CENTRAL FHD
+http://vtxonline.xyz:80/463748763/512401626/575083
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/comedycentral.png",COMEDY CENTRAL HD
+http://vtxonline.xyz:80/463748763/512401626/575084
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/comedycentral.png",COMEDY CENTRAL SD
+http://vtxonline.xyz:80/463748763/512401626/575085
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryhh.png",DISCOVERY H&H FHD
+http://vtxonline.xyz:80/463748763/512401626/575086
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryhh.png",DISCOVERY H&H HD
+http://vtxonline.xyz:80/463748763/512401626/575087
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryhh.png",DISCOVERY H&H SD
+http://vtxonline.xyz:80/463748763/512401626/575088
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryturbo.png",DISCOVERY TURBO FHD
+http://vtxonline.xyz:80/463748763/512401626/575089
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryturbo.png",DISCOVERY TURBO HD
+http://vtxonline.xyz:80/463748763/512401626/575090
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoveryturbo.png",DISCOVERY TURBO SD
+http://vtxonline.xyz:80/463748763/512401626/575091
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/e.png",E! FHD
+http://vtxonline.xyz:80/463748763/512401626/575092
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/e.png",E! HD
+http://vtxonline.xyz:80/463748763/512401626/575093
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/e.png",E! SD
+http://vtxonline.xyz:80/463748763/512401626/575094
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/foodnetwork.png",FOOD NETWORK FHD
+http://vtxonline.xyz:80/463748763/512401626/575098
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/foodnetwork.png",FOOD NETWORK HD
+http://vtxonline.xyz:80/463748763/512401626/575099
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/foodnetwork.png",FOOD NETWORK SD
+http://vtxonline.xyz:80/463748763/512401626/575100
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/gnt.png",GNT FHD
+http://vtxonline.xyz:80/463748763/512401626/575101
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/gnt.png",GNT HD
+http://vtxonline.xyz:80/463748763/512401626/575102
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/gnt.png",GNT SD
+http://vtxonline.xyz:80/463748763/512401626/575103
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/lifetime.png",LIFETIME FHD
+http://vtxonline.xyz:80/463748763/512401626/575104
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/lifetime.png",LIFETIME HD
+http://vtxonline.xyz:80/463748763/512401626/575105
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/lifetime.png",LIFETIME SD
+http://vtxonline.xyz:80/463748763/512401626/575106
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/modoviagem.png",MODO VIAGEM FHD
+http://vtxonline.xyz:80/463748763/512401626/575107
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/modoviagem.png",MODO VIAGEM HD
+http://vtxonline.xyz:80/463748763/512401626/575108
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/modoviagem.png",MODO VIAGEM SD
+http://vtxonline.xyz:80/463748763/512401626/575109
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/mtv.png",MTV FHD
+http://vtxonline.xyz:80/463748763/512401626/575110
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/mtv.png",MTV HD
+http://vtxonline.xyz:80/463748763/512401626/575111
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/mtv.png",MTV SD
+http://vtxonline.xyz:80/463748763/512401626/575112
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/tracebrasil.png",TRACE BRASIL FHD
+http://vtxonline.xyz:80/463748763/512401626/575113
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/tracebrasil.png",TRACE BRASIL HD
+http://vtxonline.xyz:80/463748763/512401626/575114
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/tracebrasil.png",TRACE BRASIL SD
+http://vtxonline.xyz:80/463748763/512401626/575115
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/mtvlive.png",MTV LIVE FHD
+http://vtxonline.xyz:80/463748763/512401626/575116
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/mtvlive.png",MTV LIVE HD
+http://vtxonline.xyz:80/463748763/512401626/575117
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/mtvlive.png",MTV LIVE SD
+http://vtxonline.xyz:80/463748763/512401626/575118
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/multishow.png",MULTISHOW FHD
+http://vtxonline.xyz:80/463748763/512401626/575119
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/multishow.png",MULTISHOW HD
+http://vtxonline.xyz:80/463748763/512401626/575120
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/multishow.png",MULTISHOW SD
+http://vtxonline.xyz:80/463748763/512401626/575121
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/off.png",OFF FHD
+http://vtxonline.xyz:80/463748763/512401626/575122
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/off.png",OFF HD
+http://vtxonline.xyz:80/463748763/512401626/575123
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/off.png",OFF SD
+http://vtxonline.xyz:80/463748763/512401626/575124
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/tlc.png",TLC FHD
+http://vtxonline.xyz:80/463748763/512401626/575125
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/tlc.png",TLC HD
+http://vtxonline.xyz:80/463748763/512401626/575126
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/tlc.png",TLC SD
+http://vtxonline.xyz:80/463748763/512401626/575127
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/travelboxbrazil.png",TRAVEL BOX BRAZIL FHD
+http://vtxonline.xyz:80/463748763/512401626/575128
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/travelboxbrazil.png",TRAVEL BOX BRAZIL HD
+http://vtxonline.xyz:80/463748763/512401626/575129
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/travelboxbrazil.png",TRAVEL BOX BRAZIL SD
+http://vtxonline.xyz:80/463748763/512401626/575130
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/adultswim.png",ADULT SWIM FHD
+http://vtxonline.xyz:80/463748763/512401626/575131
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/adultswim.png",ADULT SWIM HD
+http://vtxonline.xyz:80/463748763/512401626/575132
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/adultswim.png",ADULT SWIM SD
+http://vtxonline.xyz:80/463748763/512401626/575133
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/globoplaynovelas.png",GLOBOPLAY NOVELAS FHD
+http://vtxonline.xyz:80/463748763/512401626/575134
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/globoplaynovelas.png",GLOBOPLAY NOVELAS HD
+http://vtxonline.xyz:80/463748763/512401626/575135
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://www.fontedecanais.tv/logos/canais/globoplaynovelas.png",GLOBOPLAY NOVELAS SD
+http://vtxonline.xyz:80/463748763/512401626/575136
