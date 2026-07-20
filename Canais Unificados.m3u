@@ -313,6 +313,8 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqn7c8Rq6aoXBdsQ9y8prBeUMIvjIXc826mC6SgIqwjM4VHPTzzIVZzV4&s" group-title="🎶 Music 01",NOW 90'S
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Now90s00s.uk" tvg-name="Now 90s00s" tvg-logo="https://images.pluto.tv/channels/660c209e19ca71000846cf38/colorLogoPNG.png" group-title="🎶 Music 01",NOW 90S 00S
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="🎶 Music 01",NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PVW87Yt.png" group-title="🎶 Music 01",PLUTO TV KARAOKÊ
@@ -345,8 +347,14 @@ https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/69ef53e12f4d2b4f9c582
 http://92.114.85.72:8000/play/a0lc
 #EXTINF:-1 tvg-id="Thats80s.uk" tvg-name="THAT'S 80S" tvg-logo="https://i.imgur.com/TdKuz1m.png" group-title="🎶 Music 01",THAT'S 80S
 https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/69ef54f3c700cf0140272def/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEyZDA1MTM0LWI0NzgtNDlkNy1iYjUzLTkxNDYxMmNlMzI4NyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9LCJzdGl0Y2hlclBhcnRuZXJTaG93U2xhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJpc3MiOiJzZXJ2aWNlLXBhcnRuZXItYXV0aC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOmMyRnRjM1Z1WjNSMmNHeDFjdz09IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc4Mjg2MjA0OCwiaWF0IjoxNzgyNzc1NjQ4LCJqdGkiOiIwMDEyZDJjOC05ZDBkLTRkZDItYmRiZC1kYjc3NmU3N2IxYzAifQ.0c29Te8ALgke6FAz0KHGJiBhWB1NFWO50WnBy3Tzy1E
+#EXTINF:-1 tvg-id="Total🎶 Music 01.uk" tvg-name="Total🎶 Music 01" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="🎶 Music 01",TOTALMUSIC
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Total🎶 Music 012000s.uk" tvg-name="Total🎶 Music 01 2000s" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="🎶 Music 01",TOTALMUSIC 2000S
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="Total🎶 Music 0180s.uk" tvg-name="Total🎶 Music 01 80s" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="🎶 Music 01",TOTALMUSIC 80S
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Total🎶 Music 01Dance.uk" tvg-name="Total🎶 Music 01 Dance" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="🎶 Music 01",TOTALMUSIC DANCE
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="VantageRock.ee" tvg-name="VANTAGE ROCK" tvg-logo="https://vantagetv.ee/vantage_rock.png" group-title="🎶 Music 01",VANTAGE ROCK
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="🎶 Music 01",VCLASSIC TV
@@ -445,74 +453,3 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yc3ce29y" group-title="🎶 Music 02",V2BEAT
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 tvg-id="Now90s00s.uk" tvg-name="Now 90s00s" tvg-logo="https://images.pluto.tv/channels/660c209e19ca71000846cf38/colorLogoPNG.png" group-title="🎶 Music 03",NOW 90S 00S
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="Total🎶 Music 03.uk" tvg-name="Total🎶 Music 03" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="🎶 Music 03",TOTALMUSIC
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="Total🎶 Music 032000s.uk" tvg-name="Total🎶 Music 03 2000s" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="🎶 Music 03",TOTALMUSIC 2000S
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="Total🎶 Music 03Dance.uk" tvg-name="Total🎶 Music 03 Dance" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="🎶 Music 03",TOTALMUSIC DANCE
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="AE" tvg-name="ARTE 1 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/arte1.png" group-title="Teste | Variedades",ARTE 1 HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13232.m3u8
-#EXTINF:-1 tvg-id="AE" tvg-name="ARTE 1 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/arte1.png" group-title="Teste | Variedades",ARTE 1 SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://press.cc.com/image-download/956819" group-title="Teste | Variedades",COMEDY CENTRAL HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13235.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://press.cc.com/image-download/956819" group-title="Teste | Variedades",COMEDY CENTRAL SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13234.m3u8
-#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! HD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="Teste | Variedades",CURTA! HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13238.m3u8
-#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="Teste | Variedades",CURTA! SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13237.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="Teste | Variedades",DISCOVERY HOME & HEALTH HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13241.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="Teste | Variedades",DISCOVERY HOME & HEALTH SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13240.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="DISCOVERY TURBO HD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Teste | Variedades",DISCOVERY TURBO HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13246.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Teste | Variedades",DISCOVERY TURBO SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13243.m3u8
-#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="https://www.bocaboca.com.br/cine-pitching/wp-content/uploads/2018/06/canal-e.png" group-title="Teste | Variedades",E! HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13248.m3u8
-#EXTINF:-1 tvg-id="E!" tvg-name="E! SD" tvg-logo="https://www.bocaboca.com.br/cine-pitching/wp-content/uploads/2018/06/canal-e.png" group-title="Teste | Variedades",E! SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13247.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Teste | Variedades",FOOD NETWORK HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13253.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="FOOD NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Teste | Variedades",FOOD NETWORK SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13250.m3u8
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="https://g.glbimg.com/og/gs/gsat5/f/thumbs/programa/2018/09/19/LOGO_GNT_02.png" group-title="Teste | Variedades",GNT HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13256.m3u8
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD" tvg-logo="https://g.glbimg.com/og/gs/gsat5/f/thumbs/programa/2018/09/19/LOGO_GNT_02.png" group-title="Teste | Variedades",GNT SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13255.m3u8
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD" tvg-logo="https://experience-lifetimebr.tbxnet.com/images/networkLogo/life.png?_v=1.5.33" group-title="Teste | Variedades",LIFETIME HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13259.m3u8
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME SD" tvg-logo="https://experience-lifetimebr.tbxnet.com/images/networkLogo/life.png?_v=1.5.33" group-title="Teste | Variedades",LIFETIME SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13258.m3u8
-#EXTINF:-1 tvg-id="MaisGlobosat" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="Teste | Variedades",MAIS GLOBOSAT HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13262.m3u8
-#EXTINF:-1 tvg-id="MaisGlobosat" tvg-name="MAIS GLOBOSAT SD" tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="Teste | Variedades",MAIS GLOBOSAT SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13261.m3u8
-#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW HD" tvg-logo=" https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="Teste | Variedades",MULTISHOW HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13267.m3u8
-#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW SD" tvg-logo=" https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="Teste | Variedades",MULTISHOW SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13266.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="https://i.dlpng.com/static/png/6546424_preview.png" group-title="Teste | Variedades",TLC HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13270.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC SD" tvg-logo="https://i.dlpng.com/static/png/6546424_preview.png" group-title="Teste | Variedades",TLC SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13269.m3u8
-#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/538aa6ace4b002e4f8da0aea/1401600023570-6N3KHQCT7J14MHT3SBZ8/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyD4IQ_uEhoqbBUjTJFcqKvko9JlUzuVmtjr1UPhOA5qkTLSJODyitRxw8OQt1oetw/trutv.png?format=1500w" group-title="Teste | Variedades",TRUTV HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13273.m3u8
-#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV SD" tvg-logo="https://images.squarespace-cdn.com/content/v1/538aa6ace4b002e4f8da0aea/1401600023570-6N3KHQCT7J14MHT3SBZ8/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyD4IQ_uEhoqbBUjTJFcqKvko9JlUzuVmtjr1UPhOA5qkTLSJODyitRxw8OQt1oetw/trutv.png?format=1500w" group-title="Teste | Variedades",TRUTV SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13272.m3u8
-#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20130831133157" group-title="Teste | Variedades",VIVA HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13276.m3u8
-#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20130831133157" group-title="Teste | Variedades",VIVA SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13275.m3u8
-#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="Teste | Variedades",WOOHOO HD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13279.m3u8
-#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="Teste | Variedades",WOOHOO SD
-http://udq.me:80/live/7SyrYN0fMy/3772288787/13278.m3u8
-#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="Teste | Variedades",NHK
-http://udq.me:80/live/7SyrYN0fMy/3772288787/23708.m3u8
-#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20130831133157" group-title="Teste | Variedades",VIVA SD
