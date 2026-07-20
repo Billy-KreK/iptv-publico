@@ -453,3 +453,66 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="Total🎶 Music 03Dance.uk" tvg-name="Total🎶 Music 03 Dance" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="🎶 Music 03",TOTALMUSIC DANCE
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="ARTE 1 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/arte1.png" group-title="Teste | Variedades",ARTE 1 HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13232.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="ARTE 1 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/arte1.png" group-title="Teste | Variedades",ARTE 1 SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://press.cc.com/image-download/956819" group-title="Teste | Variedades",COMEDY CENTRAL HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13235.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://press.cc.com/image-download/956819" group-title="Teste | Variedades",COMEDY CENTRAL SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13234.m3u8
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! HD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="Teste | Variedades",CURTA! HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13238.m3u8
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="Teste | Variedades",CURTA! SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13237.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="Teste | Variedades",DISCOVERY HOME & HEALTH HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13241.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="Teste | Variedades",DISCOVERY HOME & HEALTH SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13240.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="DISCOVERY TURBO HD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Teste | Variedades",DISCOVERY TURBO HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13246.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Teste | Variedades",DISCOVERY TURBO SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13243.m3u8
+#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="https://www.bocaboca.com.br/cine-pitching/wp-content/uploads/2018/06/canal-e.png" group-title="Teste | Variedades",E! HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13248.m3u8
+#EXTINF:-1 tvg-id="E!" tvg-name="E! SD" tvg-logo="https://www.bocaboca.com.br/cine-pitching/wp-content/uploads/2018/06/canal-e.png" group-title="Teste | Variedades",E! SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13247.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Teste | Variedades",FOOD NETWORK HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13253.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="FOOD NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Teste | Variedades",FOOD NETWORK SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13250.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="https://g.glbimg.com/og/gs/gsat5/f/thumbs/programa/2018/09/19/LOGO_GNT_02.png" group-title="Teste | Variedades",GNT HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13256.m3u8
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD" tvg-logo="https://g.glbimg.com/og/gs/gsat5/f/thumbs/programa/2018/09/19/LOGO_GNT_02.png" group-title="Teste | Variedades",GNT SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13255.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD" tvg-logo="https://experience-lifetimebr.tbxnet.com/images/networkLogo/life.png?_v=1.5.33" group-title="Teste | Variedades",LIFETIME HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13259.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME SD" tvg-logo="https://experience-lifetimebr.tbxnet.com/images/networkLogo/life.png?_v=1.5.33" group-title="Teste | Variedades",LIFETIME SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13258.m3u8
+#EXTINF:-1 tvg-id="MaisGlobosat" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="Teste | Variedades",MAIS GLOBOSAT HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13262.m3u8
+#EXTINF:-1 tvg-id="MaisGlobosat" tvg-name="MAIS GLOBOSAT SD" tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="Teste | Variedades",MAIS GLOBOSAT SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13261.m3u8
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW HD" tvg-logo=" https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="Teste | Variedades",MULTISHOW HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13267.m3u8
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW SD" tvg-logo=" https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="Teste | Variedades",MULTISHOW SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13266.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="https://i.dlpng.com/static/png/6546424_preview.png" group-title="Teste | Variedades",TLC HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13270.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC SD" tvg-logo="https://i.dlpng.com/static/png/6546424_preview.png" group-title="Teste | Variedades",TLC SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13269.m3u8
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/538aa6ace4b002e4f8da0aea/1401600023570-6N3KHQCT7J14MHT3SBZ8/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyD4IQ_uEhoqbBUjTJFcqKvko9JlUzuVmtjr1UPhOA5qkTLSJODyitRxw8OQt1oetw/trutv.png?format=1500w" group-title="Teste | Variedades",TRUTV HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13273.m3u8
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV SD" tvg-logo="https://images.squarespace-cdn.com/content/v1/538aa6ace4b002e4f8da0aea/1401600023570-6N3KHQCT7J14MHT3SBZ8/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyD4IQ_uEhoqbBUjTJFcqKvko9JlUzuVmtjr1UPhOA5qkTLSJODyitRxw8OQt1oetw/trutv.png?format=1500w" group-title="Teste | Variedades",TRUTV SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13272.m3u8
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20130831133157" group-title="Teste | Variedades",VIVA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13276.m3u8
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20130831133157" group-title="Teste | Variedades",VIVA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13275.m3u8
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="Teste | Variedades",WOOHOO HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13279.m3u8
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png" group-title="Teste | Variedades",WOOHOO SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13278.m3u8
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="Teste | Variedades",NHK
+http://udq.me:80/live/7SyrYN0fMy/3772288787/23708.m3u8
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20130831133157" group-title="Teste | Variedades",VIVA SD
