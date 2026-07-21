@@ -451,11 +451,3 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/yc3ce29y" group-title="🎶 Music 02",V2BEAT
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBONEWS HD" tvg-logo="http://i.imgur.com/Or9muAk.png" group-title="Teste",GLOBONEWS HD
-http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1678.ts
-#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBONEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Teste",GLOBONEWS
-http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/88.ts
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBONEWS HD ALTERNATIVO" tvg-logo="http://i.imgur.com/Or9muAk.png" group-title="Teste",GLOBONEWS HD ALTERNATIVO
-http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1883.ts
-#EXTINF:-1 tvg-id="CURTA!" tvg-name="CURTA!" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="Teste",CURTA!
-http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/112.ts
