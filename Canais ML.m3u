@@ -539,61 +539,61 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
 ############################################################################ Canais | VARIEDADES
 
-#EXTINF:-1 tvg-name="Arte 1 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 4K
+#EXTINF:-1 tvg-name="Arte 1 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | VARIEDADES",Arte 1 4K
 http://tjtor8411.com:80/010794/FXz1sY/103531.ts
 
-#EXTINF:-1 tvg-name="Arte 1 FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD
+#EXTINF:-1 tvg-name="Arte 1 FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | VARIEDADESs",Arte 1 FHD
 http://tjtor8411.com:80/010794/FXz1sY/71777.ts
 
-#EXTINF:-1 tvg-name="Arte 1 FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD [H265]
+#EXTINF:-1 tvg-name="Arte 1 FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | VARIEDADES",Arte 1 FHD [H265]
 http://tjtor8411.com:80/010794/FXz1sY/71778.ts
 
-#EXTINF:-1 tvg-name="Arte 1 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 HD
+#EXTINF:-1 tvg-name="Arte 1 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | VARIEDADES",Arte 1 HD
 http://tjtor8411.com:80/010794/FXz1sY/71779.ts
 
-#EXTINF:-1 tvg-name="Arte 1 SD" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 SD
+#EXTINF:-1 tvg-name="Arte 1 SD" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | VARIEDADES",Arte 1 SD
 http://tjtor8411.com:80/010794/FXz1sY/71780.ts
 
-#EXTINF:-1 tvg-name="BIS 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | Variedades",BIS 4K
+#EXTINF:-1 tvg-name="BIS 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | VARIEDADES",BIS 4K
 http://tjtor8411.com:80/010794/FXz1sY/103527.ts
 
-#EXTINF:-1 tvg-name="BIS FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | Variedades",BIS FHD
+#EXTINF:-1 tvg-name="BIS FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | VARIEDADES",BIS FHD
 http://tjtor8411.com:80/010794/FXz1sY/71806.ts
 
-#EXTINF:-1 tvg-name="BIS FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | Variedades",BIS FHD [H265]
+#EXTINF:-1 tvg-name="BIS FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | VARIEDADES",BIS FHD [H265]
 http://tjtor8411.com:80/010794/FXz1sY/71807.ts
 
-#EXTINF:-1 tvg-name="BIS HD" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | Variedades",BIS HD
+#EXTINF:-1 tvg-name="BIS HD" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | VARIEDADES",BIS HD
 http://tjtor8411.com:80/010794/FXz1sY/71808.ts
 
-#EXTINF:-1 tvg-name="Canal Brasil 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil 4K
+#EXTINF:-1 tvg-name="Canal Brasil 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | VARIEDADES",Canal Brasil 4K
 http://tjtor8411.com:80/010794/FXz1sY/103518.ts
 
-#EXTINF:-1 tvg-name="Canal Brasil FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+#EXTINF:-1 tvg-name="Canal Brasil FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | VARIEDADES",Canal Brasil FHD
 http://tjtor8411.com:80/010794/FXz1sY/71816.ts
 
-#EXTINF:-1 tvg-name="Canal Brasil FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
+#EXTINF:-1 tvg-name="Canal Brasil FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | VARIEDADES",Canal Brasil FHD [H265]
 http://tjtor8411.com:80/010794/FXz1sY/71817.ts
 
-#EXTINF:-1 timeshift="7" tvg-name="Canal Brasil HD" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
+#EXTINF:-1 timeshift="7" tvg-name="Canal Brasil HD" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | VARIEDADES",Canal Brasil HD
 http://tjtor8411.com:80/010794/FXz1sY/71818.ts
 
-#EXTINF:-1 tvg-name="Canal Brasil SD" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil SD
+#EXTINF:-1 tvg-name="Canal Brasil SD" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | VARIEDADESs",Canal Brasil SD
 http://tjtor8411.com:80/010794/FXz1sY/71819.ts
 
-#EXTINF:-1 tvg-name="Curta FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | Documentários",Curta FHD
+#EXTINF:-1 tvg-name="Curta FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | VARIEDADES",Curta FHD
 http://tjtor8411.com:80/010794/FXz1sY/71855.ts
 
-#EXTINF:-1 tvg-name="Curta FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | Documentários",Curta FHD [H265]
+#EXTINF:-1 tvg-name="Curta FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | VARIEDADES",Curta FHD [H265]
 http://tjtor8411.com:80/010794/FXz1sY/71856.ts
 
-#EXTINF:-1 tvg-name="Curta HD" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | Documentários",Curta HD
+#EXTINF:-1 tvg-name="Curta HD" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | VARIEDADES",Curta HD
 http://tjtor8411.com:80/010794/FXz1sY/71857.ts
 
-#EXTINF:-1 tvg-name="Curta SD" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | Documentários",Curta SD
+#EXTINF:-1 tvg-name="Curta SD" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | VARIEDADES",Curta SD
 http://tjtor8411.com:80/010794/FXz1sY/71858.ts
 
-#EXTINF:-1 tvg-name="Curta 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | Documentários",Curta 4K
+#EXTINF:-1 tvg-name="Curta 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/curta.png" group-title="Canais | VARIEDADES",Curta 4K
 http://tjtor8411.com:80/010794/FXz1sY/103512.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzrboWg.png" group-title="Canais | VARIEDADES",Retrô Music Television
