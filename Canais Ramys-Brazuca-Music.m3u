@@ -5,272 +5,272 @@
 
 ### CANAIS RAMYS BR03 OUT/26 ###
 
-#EXTINF:11, group-title="Ramys BR03",CAZÉ TV FHD (ML)
+#EXTINF:11, group-title="Ramys BR03",AMC HD
 http://45.185.11.126:8000/play/a06s/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CAZÉ TV HD (ML)
+#EXTINF:0, group-title="Ramys BR03",AXN HD
 http://45.185.11.126:8000/play/a0ao/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",COMBATE HD (ML)
+#EXTINF:0, group-title="Ramys BR03",ADULT SWIM HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06m/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",COMBATE HD² (ML)
+#EXTINF:0, group-title="Ramys BR03",ANIMAL PLANET HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a09k/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",DESEMPEDIDO HD (ML)
+#EXTINF:0, group-title="Ramys BR03",BIS HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07w/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",ESPN 2 HD (ML)
+#EXTINF:0, group-title="Ramys BR03",BM&C HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06i/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",ESPN 4 HD (ML)
+#EXTINF:0, group-title="Ramys BR03",BAND NEWS HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a076/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",ESPN 4K (ML)
+#EXTINF:0, group-title="Ramys BR03",BAND SPORTS HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05o/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",ESPN FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",CNN BRASIL MONEY HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0a6/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",ESPN HD (ML)
+#EXTINF:0, group-title="Ramys BR03",CNN INTERNATIONAL HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0ap/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",GE TV FHD (TCL TV) (ML)
+#EXTINF:0, group-title="Ramys BR03",CANAL BRASIL HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06x/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",GE TV HD (SAMSUNGTV) (ML)
+#EXTINF:0, group-title="Ramys BR03",CANAL SONY HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0an/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",NSPORTS  (ML)
+#EXTINF:0, group-title="Ramys BR03",CANAL UOL HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0a4/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",PREMIERE 2 HD (ML)
+#EXTINF:0, group-title="Ramys BR03",CARTOON NETWORK HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a087/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",PREMIERE 4 HD (ML)
+#EXTINF:0, group-title="Ramys BR03",CARTOONITO HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0ae/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",PREMIERE 5 HD  (ML)
+#EXTINF:0, group-title="Ramys BR03",CINEMAX HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a081/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",PREMIERE 7 HD (ML)
+#EXTINF:0, group-title="Ramys BR03",CLARO TV+ 4K
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06f/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",PREMIERE CLUBES HD (ML)
+#EXTINF:0, group-title="Ramys BR03",COMBATE HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a073/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",SPORTV 2 HD (ML)
+#EXTINF:0, group-title="Ramys BR03",DUMDUM HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a078/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",SPORTV 3 HD (ML)
+#EXTINF:0, group-title="Ramys BR03",DISC. HOME & HEALTH HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07y/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",SPORTV HD (ML)
+#EXTINF:0, group-title="Ramys BR03",DISCOVERY CHANNEL HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0ac/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",UFC FIGHTPASS HD (ML)
+#EXTINF:0, group-title="Ramys BR03",DISCOVERY KIDS HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0ad/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",XSPORTS  (ML)
+#EXTINF:0, group-title="Ramys BR03",DISCOVERY SCIENCE HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a077/index.m3u8
-#EXTINF:0, group-title="Ramys BR03", 011 NEWS HD (ML)
+#EXTINF:0, group-title="Ramys BR03",DISCOVERY THEATER HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a085/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",AVANÇA BRASIL (ML)
+#EXTINF:0, group-title="Ramys BR03",DISCOVERY TURBO HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07z/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",BAND NEWS FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",DISCOVERY WORLD HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a086/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",BAND NEWS FHD² (ML)
+#EXTINF:0, group-title="Ramys BR03",ESPN 4 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05m/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",BAND NEWS HD (ML)
+#EXTINF:0, group-title="Ramys BR03",ESPN 5 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05n/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",BAND NEWS HD² (ML)
+#EXTINF:0, group-title="Ramys BR03",ESPN 6 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a084/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",BAND NEWS SD (ML)
+#EXTINF:0, group-title="Ramys BR03",FOOD NETWORK HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06j/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",BM&C NEWS (ML)
+#EXTINF:0, group-title="Ramys BR03",GE TV HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08v/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",BM&C NEWS FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",GNT HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a079/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",BM&C NEWS SD (ML)
+#EXTINF:0, group-title="Ramys BR03",GLOBONEWS HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08d/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CANAL GOV (ML)
+#EXTINF:0, group-title="Ramys BR03",GLOBOPLAY NOVELAS HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06w/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CBN RIO DE JANEIRO FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",GLOOB HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07v/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CBN RIO DE JANEIRO HD (ML)
+#EXTINF:0, group-title="Ramys BR03",GLOOBINHO HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a071/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CBN SÃO PAULO FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",HBO FAMILY HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08q/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CBN SÃO PAULO HD (ML)
+#EXTINF:0, group-title="Ramys BR03",HBO HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08n/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CNBC TIMES BRASIL FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",HBO MUNDI HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a082/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CNBC TIMES BRASIL HD (ML)
+#EXTINF:0, group-title="Ramys BR03",HBO POP HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08s/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CNN BRASIL FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",HBO SIGNATURE HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08r/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CNN BRASIL FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",HBO XTREME HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a083/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CNN BRASIL HD (ML)
+#EXTINF:0, group-title="Ramys BR03",HBO+ HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08p/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CNN BRASIL HD (ML)
+#EXTINF:0, group-title="Ramys BR03",HBO2 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08o/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CNN BRASIL MONEY FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",HGTV HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a074/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CNN BRASIL MONEY HD (ML)
+#EXTINF:0, group-title="Ramys BR03",HISTORY HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0al/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CNN BRASIL MONEY SD (ML)
+#EXTINF:0, group-title="Ramys BR03",ID HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a089/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CNN BRASIL SD (ML)
+#EXTINF:0, group-title="Ramys BR03",JP NEWS HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0a1/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CNN INTERNACIONAL FHD² (ML)
+#EXTINF:0, group-title="Ramys BR03",LIFETIME HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06l/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CNN INTERNACIONAL HD² (ML)
+#EXTINF:0, group-title="Ramys BR03",MEGAPIX HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a057/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",GLOBO NEWS FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",MODO VIAGEM HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07u/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",GLOBO NEWS FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",MULTISHOW HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07a/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",GLOBO NEWS HD (ML)
+#EXTINF:0, group-title="Ramys BR03",OFF HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07t/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",GLOBO NEWS HD (ML)
+#EXTINF:0, group-title="Ramys BR03",PARAMOUNT+ 4
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0aq/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",GLOBO NEWS HD² (ML)
+#EXTINF:0, group-title="Ramys BR03",PLAYBOY TV HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a09n/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",GLOBO NEWS SD (ML)
+#EXTINF:0, group-title="Ramys BR03",PREMIERE 2 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06h/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",JOVEM PAN NEWS FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",PREMIERE 3 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0av/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",JOVEM PAN NEWS FHD² (ML)
+#EXTINF:0, group-title="Ramys BR03",PREMIERE 4 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07b/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",JOVEM PAN NEWS HD² (ML)
+#EXTINF:0, group-title="Ramys BR03",PREMIERE 5 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07c/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",JOVEM PAN NEWS SD (ML)
+#EXTINF:0, group-title="Ramys BR03",PREMIERE 6 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05j/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",JP NEWS AUT  (ML)
+#EXTINF:0, group-title="Ramys BR03",PREMIERE 7 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05k/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",JP NEWS HD (ML)
+#EXTINF:0, group-title="Ramys BR03",PREMIERE 8 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05l/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",PLUTO TV RECORD NEWS (ML)
+#EXTINF:0, group-title="Ramys BR03",PREMIERE CLUBES HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06g/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",RECORD NEWS FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",RECORD NEWS HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0a2/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",RECORD NEWS HD (ML)
+#EXTINF:0, group-title="Ramys BR03",SBT NEWS HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0a7/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",RECORD NEWS HD (ML)
+#EXTINF:0, group-title="Ramys BR03",SPACE HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08b/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",RECORD NEWS UHD² (ML)
+#EXTINF:0, group-title="Ramys BR03",STUDIO UNIVERSAL HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06o/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",RESUMO DA ÓPERA (ML)
+#EXTINF:0, group-title="Ramys BR03",TIMES | EXCLUSIVO CNBC
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0a5/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",TIMES BRASIL | CNBC (ML)
+#EXTINF:0, group-title="Ramys BR03",TLC HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0aa/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",TIMES BRASIL | CNBC (ML)
+#EXTINF:0, group-title="Ramys BR03",TNT NOVELAS HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a088/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",TV CÂMERA HD² (ML)
+#EXTINF:0, group-title="Ramys BR03",TNT SPORTS HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0bi/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",TV SENADO HD (ML)
+#EXTINF:0, group-title="Ramys BR03",TNT SØRIES HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08a/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",TV VIDEONEWS (ML)
+#EXTINF:0, group-title="Ramys BR03",TV RÆ TIM BUM HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a080/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",ANIMAL PLANET HD (ML)
+#EXTINF:0, group-title="Ramys BR03",TELECINE ACTION HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a058/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",ARTE 1 HD (ML)
+#EXTINF:0, group-title="Ramys BR03",TELECINE CULT HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05a/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CANAL BRASIL HD (ML)
+#EXTINF:0, group-title="Ramys BR03",TELECINE FUN HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a059/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CURTA! (ML)
+#EXTINF:0, group-title="Ramys BR03",TELECINE PIPOCA HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08g/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",DISCOVERY CHANNEL HD (ML)
+#EXTINF:0, group-title="Ramys BR03",TELECINE PREMIUM HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08e/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",DISCOVERY TURBO HD (ML)
+#EXTINF:0, group-title="Ramys BR03",TELECINE TOUCH HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08f/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",GNT HD (ML)
+#EXTINF:0, group-title="Ramys BR03",TRACE BRASIL HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08l/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",HGTV HD (ML)
+#EXTINF:0, group-title="Ramys BR03",TRAVEL FOOD & DRINKS HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07x/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",MODO VIAGEM HD (ML)
+#EXTINF:0, group-title="Ramys BR03",USA HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06k/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",MULTISHOW FHD (ML)
+#EXTINF:0, group-title="Ramys BR03",UNIVERSAL PREMIERE HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08m/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",RECEITA FAST HD (ML)
+#EXTINF:0, group-title="Ramys BR03",UNIVERSAL REALITY HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08c/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",REVRY BRASIL (ML)
+#EXTINF:0, group-title="Ramys BR03",UNIVERSAL TV HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0af/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",TBS HD (ML)
+#EXTINF:0, group-title="Ramys BR03",WARNER CHANNEL HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0am/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",WHE PLAY  (ML)
+#EXTINF:0, group-title="Ramys BR03",WOOHOO HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a075/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",70-80 TV
+#EXTINF:0, group-title="Ramys BR03",SPORTV HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05g/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",BRIDGE CLASSIC
+#EXTINF:0, group-title="Ramys BR03",SPORTV2 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05f/index.m3u8
-#EXTINF:0, group-title="Ramys BR03",CALIFORNIA MUSIC CHANNEL
+#EXTINF:0, group-title="Ramys BR03",SPORTV3 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06v/index.m3u8
 
