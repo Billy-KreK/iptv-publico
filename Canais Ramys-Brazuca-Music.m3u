@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://cerejadoce.live:80/xmltv.php?username=68dGF&password=YcvT7"
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-*** CANAIS RAMYS *** 
+### CANAIS RAMYS ###
 
 #EXTINF:11, group-title="Ramys BR03",CAZÉ TV FHD (ML)
 http://45.185.11.126:8000/play/a06s/index.m3u8
@@ -272,7 +272,7 @@ http://45.185.11.126:8000/play/a05f/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06v/index.m3u8
 
-*** CANAIS BRAZUCA 05 ***
+### CANAIS BRAZUCA 05 ###
 
 #EXTINF:-1 tvg-name="A&E 4K" tvg-logo="http://cerejadoce.live/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E 4K
 http://cerejadoce.live:80/68dGF/YcvT7/90647.ts
@@ -4829,7 +4829,7 @@ http://cerejadoce.live:80/68dGF/YcvT7/164027.ts
 #EXTINF:-1 tvg-name="CNBC Brasil FHD [H265]" tvg-logo="" group-title="Canais | Notícias",CNBC Brasil FHD [H265]
 http://cerejadoce.live:80/68dGF/YcvT7/295481.ts
 
-*** CANAIS MÚSICA ***
+### CANAIS MÚSICA ###
 
 #EXTINF:-1 tvg-id="7080TV.it" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="🎶 Music 01",70-80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
